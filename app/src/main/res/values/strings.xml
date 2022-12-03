@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Super Heroes</string>
+
+    <string-array name="SuperHero_name">
+        <item>Superman</item>
+        <item>Wonder Woman</item>
+        <item>Spider-Man</item>
+        <item>Ant-Man</item>
+        <item>The Hulk</item>
+        <item>Batman</item>
+        <item>The Flash</item>
+        <item>Aquaman</item>
+        <item>Star-Lord</item>
+        <item>Thor</item>
+
+    </string-array><string-array name="SuperHero_description">
+        <item>Superman number 1</item>
+        <item>Wonder Woman number 2</item>
+        <item>Spider-Man number 3</item>
+        <item>Ant-Man number 4</item>
+        <item>The Hulk number 5</item>
+        <item>Batman number 6</item>
+        <item>The Flash number 7</item>
+        <item>Aquaman number 8</item>
+        <item>Star-Lord number 9</item>
+        <item>Thor number 10</item>
+    </string-array>
+</resources>
