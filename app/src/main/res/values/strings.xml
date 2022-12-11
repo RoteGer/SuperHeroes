@@ -14,15 +14,15 @@
         <item>Thor</item>
 
     </string-array><string-array name="SuperHero_description">
-        <item>Superman number 1</item>
-        <item>Wonder Woman number 2</item>
-        <item>Spider-Man number 3</item>
-        <item>Ant-Man number 4</item>
-        <item>The Hulk number 5</item>
-        <item>Batman number 6</item>
-        <item>The Flash number 7</item>
-        <item>Aquaman number 8</item>
-        <item>Star-Lord number 9</item>
-        <item>Thor number 10</item>
+        <item>A superhero who appears in American comic books published by DC Comics.</item>
+        <item>Appears in American comic books published by DC Comics.</item>
+        <item>A superhero appearing in American comic books published by Marvel Comics.</item>
+        <item>2015 American superhero film based on the Marvel Comics characters</item>
+        <item>A superhero appearing in American comic books published by Marvel Comics.</item>
+        <item>A superhero appearing in American comic books published by DC Comics.</item>
+        <item>Name of several superheroes appearing in American comic books published by DC Comics.</item>
+        <item>A superhero appearing in American comic books published by DC Comics.</item>
+        <item>A fictional character and superhero appearing in American comic books published by Marvel Comics</item>
+        <item>A fictional character appearing in American comic books published by Marvel Comics.</item>
     </string-array>
 </resources>
