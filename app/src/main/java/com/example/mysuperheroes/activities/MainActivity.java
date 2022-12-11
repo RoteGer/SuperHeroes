@@ -1,10 +1,14 @@
-package com.example.mysuperheroes;
+package com.example.mysuperheroes.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+
+import com.example.mysuperheroes.R;
+import com.example.mysuperheroes.adapters.SH_RecyclerViewAdapter;
+import com.example.mysuperheroes.models.SuperHeroModel;
 
 import java.util.ArrayList;
 

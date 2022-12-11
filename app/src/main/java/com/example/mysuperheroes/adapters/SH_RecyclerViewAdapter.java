@@ -1,4 +1,4 @@
-package com.example.mysuperheroes;
+package com.example.mysuperheroes.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.mysuperheroes.R;
+import com.example.mysuperheroes.models.SuperHeroModel;
 
 import java.util.ArrayList;
 

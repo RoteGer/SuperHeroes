@@ -1,4 +1,4 @@
-package com.example.mysuperheroes;
+package com.example.mysuperheroes.models;
 
 public class SuperHeroModel {
 
